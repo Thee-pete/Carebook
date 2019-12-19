@@ -1,0 +1,60 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+body {
+    padding: 0;
+    margin: 0;
+    position: 0;
+    font-family: "Roboto", sans-serif;
+    background-image:url("Images/Doctorpage.png");
+}
+.panelnav{
+    height:50px;
+    background-image:url("Images/navbar.png");
+    position:relative;
+    background-repeat:no-repeat;
+    margin-left:0;
+    margin-top:0;
+    
+}
+.panelform {
+    margin: 15px;
+    padding: 15px;
+    height:730px;
+    position: relative;
+    background-image =url("Images/formbg.png");
+    font-family: "Roboto", sans-serif;
+    font-size:16px;
+}
+.appointmentdetails {
+
+  position: relative;
+
+
+
+}
+.appointmentdetails input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #E3E6E7;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius:5px;
+}
+.spectxt{
+  font-family: "Roboto", sans-serif;
+  background: #E8EFF0;
+  width: 500px;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 16px;
+  border-radius:5px;
+
+}
+.specbtn{
+    border-radius:5px;
+    height:50px;
+    width:197px;
+}

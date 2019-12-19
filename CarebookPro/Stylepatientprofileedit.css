@@ -1,0 +1,63 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+body {
+    padding:0;
+    margin:0;
+    position:relative;
+    background-image:url("Images/Doctorpage.png");
+
+}
+.panelnav{
+    height:50px;
+    background-image:url("Images/navbar.png");
+    position:relative;
+    background-repeat:no-repeat;
+    margin-left:0;
+    margin-top:0;
+    
+}
+.panelform {
+    margin: 15px;
+    padding: 15px;
+    height: 750px;
+    position: relative;
+    background-image =url("Images/formbg.png");
+    font-family: "Roboto", sans-serif;
+    font-size:30px;
+}
+.detailsform input{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #E8EFF0;
+  width: 500px;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius:5px;
+  
+}
+
+.custom-file-upload {
+    display: block;
+    width: auto;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+custom-.file-upload-input {
+  
+    font-size: 16px;
+    padding: 11px 17px; 
+    border: none;
+    background-color:#08363B;
+
+}
+.custom-file-upload-button {
+
+font-size: 16px;
+padding: 11px 20px; 
+border: none;
+background-color:#08363B;
+   
+}

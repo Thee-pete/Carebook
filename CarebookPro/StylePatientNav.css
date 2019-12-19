@@ -1,0 +1,30 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+body {
+    padding:0;
+    margin:0;
+    position:relative;
+    background-image:url("Images/Doctorpage.png");
+
+}
+.panelnav{
+    height:50px;
+    background-image:url("Images/navbar.png");
+    position:relative;
+    background-repeat:no-repeat;
+    margin-left:0;
+    margin-top:0;
+    
+}
+.panelform{
+    margin:15px;
+    padding:15px;
+    position:relative;
+    background-image=url("Images/formbg.png");
+    
+
+}
+.panelform p{
+    font-family: "Roboto", sans-serif;
+    font-size:20px;
+
+}

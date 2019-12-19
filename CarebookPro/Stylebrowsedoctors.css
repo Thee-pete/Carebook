@@ -1,0 +1,77 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+body {
+    padding:0;
+    margin:0;
+    position:relative;
+    background-image:url("Images/Doctorpage.png");
+
+}
+.panelnav{
+    height:50px;
+    background-image:url("Images/navbar.png");
+    position:relative;
+    background-repeat:no-repeat;
+    margin-left:0;
+    margin-top:0;
+    
+}
+.panelform {
+    margin: 15px;
+    padding: 15px;
+    height:800px;
+    position: relative;
+    background-image =url("Images/formbg.png");
+    font-family: "Roboto", sans-serif;
+    font-size:14px;
+}
+.mydatagrid
+{
+width: 80%;
+border: solid 2px black;
+min-width: 80%;
+border-radius:5px;
+}
+
+
+
+
+.datadetails input{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius:5px;
+  
+}
+.tbox{
+   font-family: "Roboto", sans-serif;
+  outline: 0;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius:5px;
+  width:700px;
+}
+.button{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 16px;
+  border-radius:5px;
+}
+.dropdown{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 16px;
+  border-radius:5px;
+}
